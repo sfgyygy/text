@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CLASS_NAME</key>
+		<string>View1Controller</string>
+		<key>NAVBAR_TITLE_IMAGE_NAME</key>
+		<string>View1Controller</string>
+		<key>TABBAR_IMAGE_NORMAL</key>
+		<string>首页2</string>
+		<key>TABBAR_IMAGE_SELECTED</key>
+		<string>首页3</string>
+		<key>TABBAR_IMAGE_NAME</key>
+		<string>首页1</string>
+	</dict>
+	<dict>
+		<key>CLASS_NAME</key>
+		<string>View2Controller</string>
+		<key>NAVBAR_TITLE_IMAGE_NAME</key>
+		<string>View1Controller</string>
+		<key>TABBAR_IMAGE_NORMAL</key>
+		<string>首页4</string>
+		<key>TABBAR_IMAGE_SELECTED</key>
+		<string>首页5</string>
+		<key>TABBAR_IMAGE_NAME</key>
+		<string>首页2</string>
+	</dict>
+	<dict>
+		<key>CLASS_NAME</key>
+		<string>View3Controller</string>
+		<key>NAVBAR_TITLE_IMAGE_NAME</key>
+		<string>View1Controller</string>
+		<key>TABBAR_IMAGE_NORMAL</key>
+		<string>首页6</string>
+		<key>TABBAR_IMAGE_SELECTED</key>
+		<string>首页7</string>
+		<key>TABBAR_IMAGE_NAME</key>
+		<string>首页3</string>
+	</dict>
+	<dict>
+		<key>CLASS_NAME</key>
+		<string>View4Controller</string>
+		<key>NAVBAR_TITLE_IMAGE_NAME</key>
+		<string>模型</string>
+		<key>TABBAR_IMAGE_NORMAL</key>
+		<string>首页</string>
+		<key>TABBAR_IMAGE_SELECTED</key>
+		<string>首页1</string>
+		<key>TABBAR_IMAGE_NAME</key>
+		<string>首页4</string>
+	</dict>
+</array>
+</plist>
